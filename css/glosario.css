@@ -1,0 +1,473 @@
+
+.Titulo{
+    margin: 0px;
+    font-size: 3rem;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+}
+
+.texto1{
+     margin: 0px;
+    font-size: 1.5rem;
+    text-align: left;
+    color: black;
+    font-family: inherit;
+}
+.sub_tabla{
+    background-color:plum;
+    font-size: 3rem;
+    text-align: center;
+    color: darkslateblue;
+    font-family: inherit;
+}
+.sub_listas{
+    margin: 0px;
+    font-size: 80px;
+    text-align: left;
+    color: black;
+    font-family: cursive;
+}
+.h3{
+    font-size: 2rem;
+    background-color: plum;
+    text-align: center;
+    color: darkviolet;
+    font-family: fantasy;
+}
+.sub_2{
+    font-size: 1.3rem;
+    text-align: center;
+    color: black;
+    font-family: inherit;
+    margin: 1rem;
+}
+.p_head{
+    background-color:plum;
+    font-size: 1.5rem;
+    text-align: center;
+    color:paleturquoise;
+    font-family: inherit;
+}
+.parrafo_1{
+    font-size:1.3rem;
+    color: black;
+    font-family: inherit;
+    margin: 1rem;
+}
+.tick-1{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 150px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+}
+.para_body{
+    background-color:plum;
+    font-size: 1.5rem;
+    text-align: center;
+    color: paleturquoise;
+    font-family: inherit;
+    margin-top: 10px;
+}
+.parrafo{
+    font-size:1.3rem;
+    color: black;
+    font-family: inherit;
+    margin: 1rem;
+}
+.sub-lista2{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 150px;
+    height:150px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+}
+
+
+.Lista_1{
+    margin: 1rem;
+    text-align: center;
+    font-size: 1.3rem;
+    list-style: none;
+}
+.parrafo_0{
+    font-size: 2rem;
+    background-color: plum;
+    text-align: center;
+    color: darkviolet;
+    font-family: inherit;
+}
+.p_parrafo{
+     background-color:plum;
+    font-size:1.5rem;
+    text-align: center;
+    color:paleturquoise;
+    font-family: inherit;
+    margin-top: 1px;
+}
+.descri_parrafo{
+      font-size:1.3rem;
+    color: black;
+    font-family: inherit;
+    margin: 1rem;
+}
+.titulo_body{
+      font-size: 25px;
+    text-align: left;
+    color:darkmagenta;
+    font-family: inherit;
+}
+.etiqueta{
+   text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 150px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+
+}
+.definicion{
+    font-size: 20px;
+    color:blue;
+}
+.categoria{
+    background-color:plum;
+    font-size: 1.5rem;
+    text-align: center;
+    color: paleturquoise;
+    font-family: inherit;
+    margin: 1rem;
+}
+.estructura{
+     font-size: 25px;
+    text-align: left;
+    color:black;
+    font-family: inherit;
+}
+.defi_estructuras{
+    font-size: 1.3rem;
+    color: blue;
+    margin: 1rem;
+}
+.lis_1{
+     text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.lis_2{
+      text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.lis_3{
+     text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.lis_4{
+   text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.lis_5{
+   text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.lis_6{
+    text-align: center;
+    font-size: 1.3rem;
+    font-family: inherit;
+    margin-top: 1rem;
+    width: 200px;
+    height: 30px;
+    justify-content: space-between;
+    margin: auto 620px;
+    background-color:plum;
+    border-radius: 10px;
+    list-style: none;
+    margin-top: 1rem;
+}
+.pagina_1{
+   background-image: radial-gradient(circle at 50% -20.71%, #a0d9e6 0, #a2d9ea 5%, #a4d8ed 10%, #a8d7ef 15%, #acd6f2 20%, #b1d4f3 25%, #b6d3f4 30%, #bbd2f4 35%, #c1d0f4 40%, #c7cff3 45%, #cdcdf2 50%, #d3cbf0 55%, #d8caee 60%, #dec9eb 65%, #e3c7e7 70%, #e7c6e4 75%, #ebc5e0 80%, #efc4db 85%, #f2c4d7 90%, #f4c3d2 95%, #f6c3ce 100%);
+     }
+.body_2{
+    font-size: 25px;
+    color:black;
+    font-family: inherit;
+}
+.titulo_elemento{
+     font-size: 25px;
+    color:black;
+    font-family: inherit;
+}
+.head_2{
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.Body_3{
+    font-size: 20px;
+    color:black;
+    font-family: inherit;
+}
+.nombre{
+     font-size: 15px;
+    text-align: end;
+    color: black;
+    font-family:cursive;
+}
+.nuevo_1{
+     margin: 0px;
+    font-size: 60px;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+    
+}
+.titulo_2{
+     margin: 8px;
+    font-size: 50px;
+    text-align: center;
+    color: darkmagenta;
+    font-family: inherit;
+    background-color:violet;
+}
+.tabla_et{
+    margin: 5px 450px 5px 450px;
+}
+.s{
+    width: 1300px;
+    margin-top: 10px;
+    margin: 60px;
+}
+
+.s ul li{
+    list-style: none;
+}
+
+.n ul li{
+    list-style: none;
+}
+
+.numbers{
+    
+    border-radius: 1px solid white;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    float:left;
+}
+ 
+.numbers div{
+    width:600px;
+    height:150px;
+    border: 1px solid ;
+    padding: 10px;
+    margin: 10px;
+
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.s{
+    background-color: plum;
+    
+}
+
+@media screen and (max-width: 375px) {
+    /* STYLES HERE */
+    :root {
+      --phone-laterh1: 2rem;
+      --phone-laterh2: 1.5rem;
+      --phone-laterh3: 1.3rem;
+      --phone-paraf: 1rem;
+    }
+    /*propiedad general listas*/
+    ul{
+        list-style: none;
+    }
+
+    .tick-1{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .sub-lista2{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .lis_1{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+
+    }
+
+    .lis_2{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .lis_3{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .lis_4{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .lis_5{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .lis_6{
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+    .etiqueta{
+        
+        max-width: 100%;
+        margin: 0rem;
+        text-align: center;
+    }
+
+
+
+
+
+    .table_start{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .sub_tabla{
+        font-size: var(--phone-laterh1);
+    }
+  
+
+  
+    /*Nuevas etiqueteas de HTML*/
+    .nuevo_1{
+        font-size: var(--phone-laterh1);
+    }
+
+    .tabla_et{
+        
+        margin: 2rem 0rem 2rem 0rem;
+    }
+
+
+    /*Etiquetas css*/
+    .titulo_2{
+        margin: 0rem;
+        font-size: var(--phone-laterh1);
+    }
+
+    /*elementos finales*/
+    .s{
+        max-width: 100%;
+        font-size: var(--phone-paraf);
+        margin: 0rem;
+        padding: 0rem;
+    }
+
+    .numbers div{
+        
+        max-width: 100%;
+        font-size: var(--phone-paraf);
+        margin: 2rem 0rem 2rem 0rem;
+        padding: 0rem;
+
+    }
+
+    .n{
+        max-width: 100%;
+        font-size: var(--phone-paraf);
+        margin: 0rem;
+        padding: 0rem;
+    }
+    .numbers{
+        max-width: 100%;
+        margin: 0rem;
+        padding: 0rem;
+    }
+
+
+
+  }

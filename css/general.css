@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    font-family: cursive;
+}
+html{
+    margin: 0rem;
+    padding: 0rem;
+}
+:root{
+     --color1:#FC4ABD;
+    --color2:#FF96DB;
+    --color3:#F06FFF;
+    --color4:#DA85FF;
+    --color5:#CAA2FC;
+}
+
